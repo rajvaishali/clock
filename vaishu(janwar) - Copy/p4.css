@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Roboto+Condensed&display=swap');
+/*@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none)*/
+
+*{
+    margin: 0;
+    padding:( 0,0,1);
+}
+.div1{
+    background: rgb(236, 98, 98);
+    color: rgb(236, 227, 221);
+    height: 65px;
+    font-size: 27px;
+    display: flex;
+    align-items: center;
+    padding: 0px 12px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.div1 li{
+    list-style-type: none;
+    
+}
+
+
+.gamecontainer{
+    /*background: rgba(0,0,0,0.8);
+    backdrop-filter: blur(10px);*/
+    background-color: rgb(50, 217, 255);
+    /* height: 500px; */
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.container{
+background-color: rgb(174, 208, 208);
+}

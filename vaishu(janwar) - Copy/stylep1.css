@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+img{
+    width: 50px;
+}
+.logo_container{
+    display: flex;
+    background-color: aqua;
+    margin: auto;
+    
+    
+
+
+}
+nav{
+background-color: rgb(16, 220, 152);
+flex: 1;
+text;
+
+
+
+}
+
+nav ul {
+    /* display: inline-block;*/
+    display: flex;
+    
+}
+nav ul li{
+    margin: 0px 120px;
+
+}
+.cart{
+    background-color: rgb(156, 137, 174);
+    align-items: right;
+}
+.logo{
+    box-sizing: border-box;
+    padding: 0px;
+    padding-top: 0px;
+}
